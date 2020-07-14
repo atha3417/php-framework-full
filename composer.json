@@ -1,0 +1,18 @@
+{
+	"name": "atha/rest-api-full",
+    "description": "Just a simple rest-server",
+    "keywords": ["php", "framework", "codeigniter", "laravel"],
+    "license": "None",
+    "authors": [
+        {
+            "name": "Atha Tsaqif",
+            "email": "atha.3417@gmail.com",
+            "homepage": "http://example.com/"
+        }
+    ],
+    "require": {
+        "atha/codeigniter4-app": "^1.1",
+        "atha/codeigniter3-app": "^1.0",
+        "atha/laravel5-app": "^1.2"
+    }
+}
